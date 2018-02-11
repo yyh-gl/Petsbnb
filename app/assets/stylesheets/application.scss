@@ -18,21 +18,21 @@
  	margin-top: 200px;
 }
 
-.navbar-default {
+.navbar {
     background: transparent;
     border-color: transparent;
     z-index: 10;
 }
 
-.navbar-default .navbar-nav >li > a {
+.navbar .navbar-nav {	
     color: white;
     font-size: 13px;
 }
 
-.navbar-default .navbar-brand {
-    color: white;	
+.navbar .navbar-brand {
+	color: black;
 }
 
-.navbar-default .navbar-toggle .icon-bar {
+.navbar .navbar-toggle .icon-bar {
     background-color: #fff;
 }
