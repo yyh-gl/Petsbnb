@@ -10,19 +10,27 @@
 	height: 420px;
 }
 
+.jumbotron .container .row {
+    color: #fff;
+}
+
+.jumbotron .container .row .display-3 {
+ 	margin-top: 200px;
+}
+
 .navbar-default {
     background: transparent;
     border-color: transparent;
     z-index: 10;
 }
 
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-nav >li > a {
     color: white;
     font-size: 13px;
 }
 
 .navbar-default .navbar-brand {
-    color: white;
+    color: white;	
 }
 
 .navbar-default .navbar-toggle .icon-bar {
